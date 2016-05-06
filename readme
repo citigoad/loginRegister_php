@@ -1,0 +1,11 @@
+1) This is a prime number checker application which requires a registration and login.
+
+2) 'index.php' is the registration page. Data stores in the mysql DB installed in the instance.
+
+3) When user clicks "Sign in here" link it directs to 'login.php', where the user need to give his registered details and hit login button.
+
+4) 'home.php' gives the prime number application. User can enter any number and check whether a number is prime number or not.
+
+5) Logout button is provided to the right side of the page to unset the logged in user.
+
+6) CSS file is included for the application 'style.css'
